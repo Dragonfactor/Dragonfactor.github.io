@@ -9,3 +9,6 @@ body{
 photo{
   border: 5px;
 }
+img {
+  border-radius: 8px;
+}
