@@ -15,6 +15,9 @@ body{
 #quote{
   background-color: beige;
 }
+#schools{
+  background-color: violet;
+}
 p{
   color: grey;
   font-size: 15px;
