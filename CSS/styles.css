@@ -9,6 +9,10 @@ p{
   color: grey;
   font-size: 15px;
 }
+.table{
+  text-align: center;
+  color: blue;
+}
 
 #photo{
   border: 5px;
