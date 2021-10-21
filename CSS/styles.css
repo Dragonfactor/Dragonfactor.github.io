@@ -12,6 +12,12 @@ h3{
 body{
   background-color: yellow;
 }
+#body2{
+  background-color: beige;
+}
+#body3{
+  background-color: orange;
+}
 p{
   color: grey;
   font-size: 15px;
