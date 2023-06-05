@@ -6,7 +6,8 @@ h1{
 }
 
 body{
-  background-color: #ffffb0;
+  background-image: url("../WebsiteBackground.png");
+  background-size: 100% 100%;
 }
 p{
   font-size: 15px;
